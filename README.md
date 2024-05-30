@@ -7,7 +7,7 @@ This project is a React application that fetches and displays data about planets
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/swapi-planet.git
+   git clone https://github.com/tusharj23/swapi-planet.git
    cd swapi-planet 
 1. Install the node modules and run the app:
    ```sh
